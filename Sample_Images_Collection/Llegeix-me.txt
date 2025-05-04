@@ -1,0 +1,4 @@
+Aquestes imatges han sigut obtingudes del respoistori:
+https://github.com/yavuzceliker/sample-images/tree/main
+
+El seu ús no és comercial, i cada imatge té un valor numèric.

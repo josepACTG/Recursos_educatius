@@ -1,0 +1,13 @@
+Plantes:
+Argelaga (Ulex parviflorus)
+Heura (Hedera helix)
+Castanyer (Castanea sativa)
+Alzina (Quercus ilex)
+Cirerer (Prunus avium)
+
+Animals:
+Esquirol (Sciurus vulgaris)
+Tudó (Columba palumbus)
+Tritó pirinenc (Calotriton asper)
+Senglar (Sus scrofa)
+Guineu (Vulpes vulpes)

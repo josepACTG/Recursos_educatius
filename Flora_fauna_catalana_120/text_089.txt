@@ -1,0 +1,13 @@
+Plantes:
+Llorer (Laurus nobilis)
+Cirerer (Prunus avium)
+Alzina (Quercus ilex)
+Pi roig (Pinus sylvestris)
+Romaní (Rosmarinus officinalis)
+
+Animals:
+Granota verda (Pelophylax perezi)
+Tritó pirinenc (Calotriton asper)
+Senglar (Sus scrofa)
+Cigala (Cicada orni)
+Rata cellarda (Eliomys quercinus)

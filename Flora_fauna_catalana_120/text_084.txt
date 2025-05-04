@@ -1,0 +1,13 @@
+Plantes:
+Romaní (Rosmarinus officinalis)
+Esparreguera (Asparagus acutifolius)
+Llorer (Laurus nobilis)
+Boix (Buxus sempervirens)
+Castanyer (Castanea sativa)
+
+Animals:
+Esquirol (Sciurus vulgaris)
+Tudó (Columba palumbus)
+Rata cellarda (Eliomys quercinus)
+Cabirol (Capreolus capreolus)
+Cigala (Cicada orni)

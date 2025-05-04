@@ -1,0 +1,13 @@
+Plantes:
+Romaní (Rosmarinus officinalis)
+Heura (Hedera helix)
+Castanyer (Castanea sativa)
+Boix (Buxus sempervirens)
+Cirerer (Prunus avium)
+
+Animals:
+Escarabat rinoceront (Oryctes nasicornis)
+Papallona rei (Papilio machaon)
+Cabirol (Capreolus capreolus)
+Granota verda (Pelophylax perezi)
+Libèl·lula comuna (Sympetrum striolatum)

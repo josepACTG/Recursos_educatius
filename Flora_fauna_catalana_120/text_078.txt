@@ -1,0 +1,13 @@
+Plantes:
+Esparreguera (Asparagus acutifolius)
+Boix (Buxus sempervirens)
+Cirerer (Prunus avium)
+Avellaner (Corylus avellana)
+Baladre (Nerium oleander)
+
+Animals:
+Escarabat rinoceront (Oryctes nasicornis)
+Rata cellarda (Eliomys quercinus)
+Guineu (Vulpes vulpes)
+Formiga roja (Myrmica rubra)
+Senglar (Sus scrofa)

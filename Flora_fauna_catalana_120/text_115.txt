@@ -1,0 +1,13 @@
+Plantes:
+Argelaga (Ulex parviflorus)
+Farigola (Thymus vulgaris)
+Baladre (Nerium oleander)
+Esparreguera (Asparagus acutifolius)
+Avellaner (Corylus avellana)
+
+Animals:
+Tudó (Columba palumbus)
+Cabirol (Capreolus capreolus)
+Formiga roja (Myrmica rubra)
+Senglar (Sus scrofa)
+Àguila daurada (Aquila chrysaetos)

@@ -1,0 +1,13 @@
+Plantes:
+Cirerer (Prunus avium)
+Castanyer (Castanea sativa)
+Argelaga (Ulex parviflorus)
+Heura (Hedera helix)
+Farigola (Thymus vulgaris)
+
+Animals:
+Tritó pirinenc (Calotriton asper)
+Granota verda (Pelophylax perezi)
+Cabirol (Capreolus capreolus)
+Libèl·lula comuna (Sympetrum striolatum)
+Papallona rei (Papilio machaon)

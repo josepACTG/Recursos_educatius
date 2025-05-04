@@ -1,0 +1,13 @@
+Plantes:
+Baladre (Nerium oleander)
+Heura (Hedera helix)
+Esparreguera (Asparagus acutifolius)
+Farigola (Thymus vulgaris)
+Avellaner (Corylus avellana)
+
+Animals:
+Esquirol (Sciurus vulgaris)
+Granota verda (Pelophylax perezi)
+Guineu (Vulpes vulpes)
+Libèl·lula comuna (Sympetrum striolatum)
+Tudó (Columba palumbus)

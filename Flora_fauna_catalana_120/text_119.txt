@@ -1,0 +1,13 @@
+Plantes:
+Ginesta (Spartium junceum)
+Castanyer (Castanea sativa)
+Llorer (Laurus nobilis)
+Baladre (Nerium oleander)
+Argelaga (Ulex parviflorus)
+
+Animals:
+Senglar (Sus scrofa)
+Libèl·lula comuna (Sympetrum striolatum)
+Àguila daurada (Aquila chrysaetos)
+Guineu (Vulpes vulpes)
+Esquirol (Sciurus vulgaris)

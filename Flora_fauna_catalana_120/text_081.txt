@@ -1,0 +1,13 @@
+Plantes:
+Baladre (Nerium oleander)
+Esparreguera (Asparagus acutifolius)
+Pi roig (Pinus sylvestris)
+Castanyer (Castanea sativa)
+Avellaner (Corylus avellana)
+
+Animals:
+Libèl·lula comuna (Sympetrum striolatum)
+Esquirol (Sciurus vulgaris)
+Escarabat rinoceront (Oryctes nasicornis)
+Rata cellarda (Eliomys quercinus)
+Ós bru (Ursus arctos)

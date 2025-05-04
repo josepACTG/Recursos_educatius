@@ -1,0 +1,13 @@
+Plantes:
+Esparreguera (Asparagus acutifolius)
+Pi roig (Pinus sylvestris)
+Cirerer (Prunus avium)
+Argelaga (Ulex parviflorus)
+Avellaner (Corylus avellana)
+
+Animals:
+Escarabat rinoceront (Oryctes nasicornis)
+Papallona rei (Papilio machaon)
+Senglar (Sus scrofa)
+Ós bru (Ursus arctos)
+Cabirol (Capreolus capreolus)

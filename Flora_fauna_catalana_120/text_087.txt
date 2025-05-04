@@ -1,0 +1,13 @@
+Plantes:
+Ginesta (Spartium junceum)
+Farigola (Thymus vulgaris)
+Avellaner (Corylus avellana)
+Llorer (Laurus nobilis)
+Castanyer (Castanea sativa)
+
+Animals:
+Senglar (Sus scrofa)
+Papallona rei (Papilio machaon)
+Rata cellarda (Eliomys quercinus)
+Tritó pirinenc (Calotriton asper)
+Guineu (Vulpes vulpes)

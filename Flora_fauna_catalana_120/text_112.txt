@@ -1,0 +1,13 @@
+Plantes:
+Castanyer (Castanea sativa)
+Alzina (Quercus ilex)
+Farigola (Thymus vulgaris)
+Heura (Hedera helix)
+Romaní (Rosmarinus officinalis)
+
+Animals:
+Tudó (Columba palumbus)
+Formiga roja (Myrmica rubra)
+Cigala (Cicada orni)
+Granota verda (Pelophylax perezi)
+Libèl·lula comuna (Sympetrum striolatum)

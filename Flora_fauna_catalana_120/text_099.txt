@@ -1,0 +1,13 @@
+Plantes:
+Rovelló (Lactarius deliciosus)
+Baladre (Nerium oleander)
+Pi roig (Pinus sylvestris)
+Romaní (Rosmarinus officinalis)
+Castanyer (Castanea sativa)
+
+Animals:
+Guineu (Vulpes vulpes)
+Àguila daurada (Aquila chrysaetos)
+Tritó pirinenc (Calotriton asper)
+Cabirol (Capreolus capreolus)
+Ós bru (Ursus arctos)

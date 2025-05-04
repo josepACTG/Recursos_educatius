@@ -1,0 +1,13 @@
+Plantes:
+Baladre (Nerium oleander)
+Ginesta (Spartium junceum)
+Cirerer (Prunus avium)
+Boix (Buxus sempervirens)
+Esparreguera (Asparagus acutifolius)
+
+Animals:
+Granota verda (Pelophylax perezi)
+Libèl·lula comuna (Sympetrum striolatum)
+Guineu (Vulpes vulpes)
+Àguila daurada (Aquila chrysaetos)
+Senglar (Sus scrofa)

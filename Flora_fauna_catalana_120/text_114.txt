@@ -1,0 +1,13 @@
+Plantes:
+Baladre (Nerium oleander)
+Boix (Buxus sempervirens)
+Farigola (Thymus vulgaris)
+Rovelló (Lactarius deliciosus)
+Pi roig (Pinus sylvestris)
+
+Animals:
+Cabirol (Capreolus capreolus)
+Ós bru (Ursus arctos)
+Guineu (Vulpes vulpes)
+Àguila daurada (Aquila chrysaetos)
+Escarabat rinoceront (Oryctes nasicornis)

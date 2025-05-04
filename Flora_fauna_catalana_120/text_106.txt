@@ -1,0 +1,13 @@
+Plantes:
+Esparreguera (Asparagus acutifolius)
+Boix (Buxus sempervirens)
+Rovelló (Lactarius deliciosus)
+Baladre (Nerium oleander)
+Cirerer (Prunus avium)
+
+Animals:
+Cabirol (Capreolus capreolus)
+Tritó pirinenc (Calotriton asper)
+Formiga roja (Myrmica rubra)
+Ós bru (Ursus arctos)
+Rata cellarda (Eliomys quercinus)

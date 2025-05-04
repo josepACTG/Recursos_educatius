@@ -1,0 +1,13 @@
+Plantes:
+Farigola (Thymus vulgaris)
+Llorer (Laurus nobilis)
+Heura (Hedera helix)
+Avellaner (Corylus avellana)
+Pi roig (Pinus sylvestris)
+
+Animals:
+Senglar (Sus scrofa)
+Papallona rei (Papilio machaon)
+Rata cellarda (Eliomys quercinus)
+Àguila daurada (Aquila chrysaetos)
+Esquirol (Sciurus vulgaris)

@@ -1,0 +1,13 @@
+Plantes:
+Esparreguera (Asparagus acutifolius)
+Castanyer (Castanea sativa)
+Farigola (Thymus vulgaris)
+Argelaga (Ulex parviflorus)
+Romaní (Rosmarinus officinalis)
+
+Animals:
+Rata cellarda (Eliomys quercinus)
+Cigala (Cicada orni)
+Esquirol (Sciurus vulgaris)
+Escarabat rinoceront (Oryctes nasicornis)
+Tudó (Columba palumbus)

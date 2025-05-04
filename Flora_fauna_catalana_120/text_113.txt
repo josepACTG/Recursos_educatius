@@ -1,0 +1,13 @@
+Plantes:
+Rovelló (Lactarius deliciosus)
+Argelaga (Ulex parviflorus)
+Ginesta (Spartium junceum)
+Heura (Hedera helix)
+Pi roig (Pinus sylvestris)
+
+Animals:
+Escarabat rinoceront (Oryctes nasicornis)
+Cigala (Cicada orni)
+Guineu (Vulpes vulpes)
+Tudó (Columba palumbus)
+Rata cellarda (Eliomys quercinus)

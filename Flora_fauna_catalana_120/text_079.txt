@@ -1,0 +1,13 @@
+Plantes:
+Heura (Hedera helix)
+Alzina (Quercus ilex)
+Avellaner (Corylus avellana)
+Llorer (Laurus nobilis)
+Argelaga (Ulex parviflorus)
+
+Animals:
+Ós bru (Ursus arctos)
+Guineu (Vulpes vulpes)
+Granota verda (Pelophylax perezi)
+Cabirol (Capreolus capreolus)
+Tudó (Columba palumbus)

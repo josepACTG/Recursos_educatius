@@ -1,0 +1,13 @@
+Plantes:
+Romaní (Rosmarinus officinalis)
+Rovelló (Lactarius deliciosus)
+Avellaner (Corylus avellana)
+Ginesta (Spartium junceum)
+Alzina (Quercus ilex)
+
+Animals:
+Tritó pirinenc (Calotriton asper)
+Àguila daurada (Aquila chrysaetos)
+Papallona rei (Papilio machaon)
+Granota verda (Pelophylax perezi)
+Formiga roja (Myrmica rubra)

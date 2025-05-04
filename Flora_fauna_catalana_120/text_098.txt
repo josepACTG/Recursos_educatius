@@ -1,0 +1,13 @@
+Plantes:
+Baladre (Nerium oleander)
+Boix (Buxus sempervirens)
+Farigola (Thymus vulgaris)
+Heura (Hedera helix)
+Rovelló (Lactarius deliciosus)
+
+Animals:
+Senglar (Sus scrofa)
+Libèl·lula comuna (Sympetrum striolatum)
+Tritó pirinenc (Calotriton asper)
+Escarabat rinoceront (Oryctes nasicornis)
+Cigala (Cicada orni)

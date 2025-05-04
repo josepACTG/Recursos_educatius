@@ -1,0 +1,13 @@
+Plantes:
+Baladre (Nerium oleander)
+Argelaga (Ulex parviflorus)
+Castanyer (Castanea sativa)
+Alzina (Quercus ilex)
+Heura (Hedera helix)
+
+Animals:
+Rata cellarda (Eliomys quercinus)
+Cabirol (Capreolus capreolus)
+Tritó pirinenc (Calotriton asper)
+Àguila daurada (Aquila chrysaetos)
+Formiga roja (Myrmica rubra)

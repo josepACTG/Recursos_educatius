@@ -1,0 +1,13 @@
+Plantes:
+Esparreguera (Asparagus acutifolius)
+Boix (Buxus sempervirens)
+Argelaga (Ulex parviflorus)
+Farigola (Thymus vulgaris)
+Heura (Hedera helix)
+
+Animals:
+Tudó (Columba palumbus)
+Senglar (Sus scrofa)
+Esquirol (Sciurus vulgaris)
+Formiga roja (Myrmica rubra)
+Rata cellarda (Eliomys quercinus)

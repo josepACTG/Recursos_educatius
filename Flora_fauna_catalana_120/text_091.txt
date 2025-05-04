@@ -1,0 +1,13 @@
+Plantes:
+Baladre (Nerium oleander)
+Ginesta (Spartium junceum)
+Pi roig (Pinus sylvestris)
+Llorer (Laurus nobilis)
+Romaní (Rosmarinus officinalis)
+
+Animals:
+Libèl·lula comuna (Sympetrum striolatum)
+Rata cellarda (Eliomys quercinus)
+Àguila daurada (Aquila chrysaetos)
+Cigala (Cicada orni)
+Papallona rei (Papilio machaon)

@@ -1,0 +1,13 @@
+Plantes:
+Avellaner (Corylus avellana)
+Baladre (Nerium oleander)
+Llorer (Laurus nobilis)
+Ginesta (Spartium junceum)
+Castanyer (Castanea sativa)
+
+Animals:
+Cabirol (Capreolus capreolus)
+Tritó pirinenc (Calotriton asper)
+Granota verda (Pelophylax perezi)
+Formiga roja (Myrmica rubra)
+Tudó (Columba palumbus)

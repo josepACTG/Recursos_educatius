@@ -1,0 +1,13 @@
+Plantes:
+Rovelló (Lactarius deliciosus)
+Llorer (Laurus nobilis)
+Heura (Hedera helix)
+Ginesta (Spartium junceum)
+Esparreguera (Asparagus acutifolius)
+
+Animals:
+Tudó (Columba palumbus)
+Libèl·lula comuna (Sympetrum striolatum)
+Tritó pirinenc (Calotriton asper)
+Rata cellarda (Eliomys quercinus)
+Senglar (Sus scrofa)

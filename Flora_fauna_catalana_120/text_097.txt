@@ -1,0 +1,13 @@
+Plantes:
+Avellaner (Corylus avellana)
+Ginesta (Spartium junceum)
+Boix (Buxus sempervirens)
+Argelaga (Ulex parviflorus)
+Romaní (Rosmarinus officinalis)
+
+Animals:
+Cabirol (Capreolus capreolus)
+Rata cellarda (Eliomys quercinus)
+Esquirol (Sciurus vulgaris)
+Escarabat rinoceront (Oryctes nasicornis)
+Formiga roja (Myrmica rubra)

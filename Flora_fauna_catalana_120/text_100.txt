@@ -1,0 +1,13 @@
+Plantes:
+Argelaga (Ulex parviflorus)
+Boix (Buxus sempervirens)
+Cirerer (Prunus avium)
+Baladre (Nerium oleander)
+Castanyer (Castanea sativa)
+
+Animals:
+Tritó pirinenc (Calotriton asper)
+Guineu (Vulpes vulpes)
+Rata cellarda (Eliomys quercinus)
+Àguila daurada (Aquila chrysaetos)
+Granota verda (Pelophylax perezi)

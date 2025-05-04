@@ -1,0 +1,13 @@
+Plantes:
+Cirerer (Prunus avium)
+Alzina (Quercus ilex)
+Rovelló (Lactarius deliciosus)
+Ginesta (Spartium junceum)
+Baladre (Nerium oleander)
+
+Animals:
+Àguila daurada (Aquila chrysaetos)
+Tritó pirinenc (Calotriton asper)
+Formiga roja (Myrmica rubra)
+Cigala (Cicada orni)
+Senglar (Sus scrofa)

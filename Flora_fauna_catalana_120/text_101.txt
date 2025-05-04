@@ -1,0 +1,13 @@
+Plantes:
+Avellaner (Corylus avellana)
+Argelaga (Ulex parviflorus)
+Pi roig (Pinus sylvestris)
+Farigola (Thymus vulgaris)
+Ginesta (Spartium junceum)
+
+Animals:
+Àguila daurada (Aquila chrysaetos)
+Escarabat rinoceront (Oryctes nasicornis)
+Papallona rei (Papilio machaon)
+Cigala (Cicada orni)
+Senglar (Sus scrofa)

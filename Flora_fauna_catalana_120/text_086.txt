@@ -1,0 +1,13 @@
+Plantes:
+Llorer (Laurus nobilis)
+Esparreguera (Asparagus acutifolius)
+Ginesta (Spartium junceum)
+Heura (Hedera helix)
+Castanyer (Castanea sativa)
+
+Animals:
+Escarabat rinoceront (Oryctes nasicornis)
+Libèl·lula comuna (Sympetrum striolatum)
+Ós bru (Ursus arctos)
+Cabirol (Capreolus capreolus)
+Tudó (Columba palumbus)

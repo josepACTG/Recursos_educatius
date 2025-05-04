@@ -1,0 +1,13 @@
+Plantes:
+Rovelló (Lactarius deliciosus)
+Heura (Hedera helix)
+Llorer (Laurus nobilis)
+Farigola (Thymus vulgaris)
+Baladre (Nerium oleander)
+
+Animals:
+Cigala (Cicada orni)
+Ós bru (Ursus arctos)
+Cabirol (Capreolus capreolus)
+Libèl·lula comuna (Sympetrum striolatum)
+Àguila daurada (Aquila chrysaetos)

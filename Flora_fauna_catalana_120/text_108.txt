@@ -1,0 +1,13 @@
+Plantes:
+Baladre (Nerium oleander)
+Ginesta (Spartium junceum)
+Rovelló (Lactarius deliciosus)
+Argelaga (Ulex parviflorus)
+Pi roig (Pinus sylvestris)
+
+Animals:
+Àguila daurada (Aquila chrysaetos)
+Senglar (Sus scrofa)
+Rata cellarda (Eliomys quercinus)
+Ós bru (Ursus arctos)
+Esquirol (Sciurus vulgaris)

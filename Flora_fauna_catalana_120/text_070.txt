@@ -1,0 +1,13 @@
+Plantes:
+Llorer (Laurus nobilis)
+Farigola (Thymus vulgaris)
+Boix (Buxus sempervirens)
+Alzina (Quercus ilex)
+Heura (Hedera helix)
+
+Animals:
+Esquirol (Sciurus vulgaris)
+Senglar (Sus scrofa)
+Escarabat rinoceront (Oryctes nasicornis)
+Formiga roja (Myrmica rubra)
+Àguila daurada (Aquila chrysaetos)

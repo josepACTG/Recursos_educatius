@@ -1,0 +1,13 @@
+Plantes:
+Llorer (Laurus nobilis)
+Rovelló (Lactarius deliciosus)
+Ginesta (Spartium junceum)
+Cirerer (Prunus avium)
+Esparreguera (Asparagus acutifolius)
+
+Animals:
+Granota verda (Pelophylax perezi)
+Àguila daurada (Aquila chrysaetos)
+Tudó (Columba palumbus)
+Ós bru (Ursus arctos)
+Papallona rei (Papilio machaon)

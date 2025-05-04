@@ -1,0 +1,13 @@
+Plantes:
+Ginesta (Spartium junceum)
+Castanyer (Castanea sativa)
+Boix (Buxus sempervirens)
+Baladre (Nerium oleander)
+Heura (Hedera helix)
+
+Animals:
+Esquirol (Sciurus vulgaris)
+Cigala (Cicada orni)
+Tudó (Columba palumbus)
+Rata cellarda (Eliomys quercinus)
+Escarabat rinoceront (Oryctes nasicornis)

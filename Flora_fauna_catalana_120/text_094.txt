@@ -1,0 +1,13 @@
+Plantes:
+Esparreguera (Asparagus acutifolius)
+Ginesta (Spartium junceum)
+Romaní (Rosmarinus officinalis)
+Boix (Buxus sempervirens)
+Alzina (Quercus ilex)
+
+Animals:
+Esquirol (Sciurus vulgaris)
+Granota verda (Pelophylax perezi)
+Senglar (Sus scrofa)
+Rata cellarda (Eliomys quercinus)
+Tritó pirinenc (Calotriton asper)

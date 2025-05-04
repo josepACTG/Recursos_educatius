@@ -1,0 +1,13 @@
+Plantes:
+Cirerer (Prunus avium)
+Farigola (Thymus vulgaris)
+Romaní (Rosmarinus officinalis)
+Boix (Buxus sempervirens)
+Ginesta (Spartium junceum)
+
+Animals:
+Tudó (Columba palumbus)
+Àguila daurada (Aquila chrysaetos)
+Rata cellarda (Eliomys quercinus)
+Esquirol (Sciurus vulgaris)
+Libèl·lula comuna (Sympetrum striolatum)

@@ -1,0 +1,13 @@
+Plantes:
+Llorer (Laurus nobilis)
+Farigola (Thymus vulgaris)
+Heura (Hedera helix)
+Argelaga (Ulex parviflorus)
+Castanyer (Castanea sativa)
+
+Animals:
+Àguila daurada (Aquila chrysaetos)
+Libèl·lula comuna (Sympetrum striolatum)
+Granota verda (Pelophylax perezi)
+Escarabat rinoceront (Oryctes nasicornis)
+Ós bru (Ursus arctos)

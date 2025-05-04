@@ -1,0 +1,13 @@
+Plantes:
+Argelaga (Ulex parviflorus)
+Avellaner (Corylus avellana)
+Baladre (Nerium oleander)
+Romaní (Rosmarinus officinalis)
+Ginesta (Spartium junceum)
+
+Animals:
+Granota verda (Pelophylax perezi)
+Papallona rei (Papilio machaon)
+Formiga roja (Myrmica rubra)
+Esquirol (Sciurus vulgaris)
+Tudó (Columba palumbus)

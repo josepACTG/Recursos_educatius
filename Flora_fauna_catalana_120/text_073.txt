@@ -1,0 +1,13 @@
+Plantes:
+Romaní (Rosmarinus officinalis)
+Boix (Buxus sempervirens)
+Alzina (Quercus ilex)
+Argelaga (Ulex parviflorus)
+Esparreguera (Asparagus acutifolius)
+
+Animals:
+Guineu (Vulpes vulpes)
+Cabirol (Capreolus capreolus)
+Formiga roja (Myrmica rubra)
+Cigala (Cicada orni)
+Libèl·lula comuna (Sympetrum striolatum)

@@ -1,0 +1,13 @@
+Plantes:
+Boix (Buxus sempervirens)
+Castanyer (Castanea sativa)
+Avellaner (Corylus avellana)
+Heura (Hedera helix)
+Esparreguera (Asparagus acutifolius)
+
+Animals:
+Senglar (Sus scrofa)
+Tritó pirinenc (Calotriton asper)
+Cigala (Cicada orni)
+Esquirol (Sciurus vulgaris)
+Rata cellarda (Eliomys quercinus)

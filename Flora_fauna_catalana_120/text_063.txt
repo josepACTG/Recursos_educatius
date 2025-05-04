@@ -1,0 +1,13 @@
+Plantes:
+Argelaga (Ulex parviflorus)
+Baladre (Nerium oleander)
+Pi roig (Pinus sylvestris)
+Esparreguera (Asparagus acutifolius)
+Farigola (Thymus vulgaris)
+
+Animals:
+Tudó (Columba palumbus)
+Àguila daurada (Aquila chrysaetos)
+Formiga roja (Myrmica rubra)
+Cigala (Cicada orni)
+Papallona rei (Papilio machaon)

@@ -1,0 +1,13 @@
+Plantes:
+Llorer (Laurus nobilis)
+Castanyer (Castanea sativa)
+Ginesta (Spartium junceum)
+Esparreguera (Asparagus acutifolius)
+Argelaga (Ulex parviflorus)
+
+Animals:
+Esquirol (Sciurus vulgaris)
+Granota verda (Pelophylax perezi)
+Papallona rei (Papilio machaon)
+Ós bru (Ursus arctos)
+Libèl·lula comuna (Sympetrum striolatum)

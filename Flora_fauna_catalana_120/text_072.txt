@@ -1,0 +1,13 @@
+Plantes:
+Ginesta (Spartium junceum)
+Romaní (Rosmarinus officinalis)
+Cirerer (Prunus avium)
+Castanyer (Castanea sativa)
+Esparreguera (Asparagus acutifolius)
+
+Animals:
+Papallona rei (Papilio machaon)
+Tudó (Columba palumbus)
+Cigala (Cicada orni)
+Guineu (Vulpes vulpes)
+Senglar (Sus scrofa)

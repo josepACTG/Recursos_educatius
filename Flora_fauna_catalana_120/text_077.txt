@@ -1,0 +1,13 @@
+Plantes:
+Romaní (Rosmarinus officinalis)
+Alzina (Quercus ilex)
+Farigola (Thymus vulgaris)
+Rovelló (Lactarius deliciosus)
+Baladre (Nerium oleander)
+
+Animals:
+Granota verda (Pelophylax perezi)
+Ós bru (Ursus arctos)
+Libèl·lula comuna (Sympetrum striolatum)
+Papallona rei (Papilio machaon)
+Tudó (Columba palumbus)

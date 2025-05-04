@@ -1,0 +1,13 @@
+Plantes:
+Rovelló (Lactarius deliciosus)
+Argelaga (Ulex parviflorus)
+Heura (Hedera helix)
+Castanyer (Castanea sativa)
+Pi roig (Pinus sylvestris)
+
+Animals:
+Granota verda (Pelophylax perezi)
+Ós bru (Ursus arctos)
+Escarabat rinoceront (Oryctes nasicornis)
+Libèl·lula comuna (Sympetrum striolatum)
+Formiga roja (Myrmica rubra)

@@ -1,0 +1,13 @@
+Plantes:
+Baladre (Nerium oleander)
+Esparreguera (Asparagus acutifolius)
+Boix (Buxus sempervirens)
+Alzina (Quercus ilex)
+Heura (Hedera helix)
+
+Animals:
+Formiga roja (Myrmica rubra)
+Àguila daurada (Aquila chrysaetos)
+Escarabat rinoceront (Oryctes nasicornis)
+Esquirol (Sciurus vulgaris)
+Tritó pirinenc (Calotriton asper)

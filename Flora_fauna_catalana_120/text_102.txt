@@ -1,0 +1,13 @@
+Plantes:
+Llorer (Laurus nobilis)
+Avellaner (Corylus avellana)
+Boix (Buxus sempervirens)
+Cirerer (Prunus avium)
+Argelaga (Ulex parviflorus)
+
+Animals:
+Tritó pirinenc (Calotriton asper)
+Cigala (Cicada orni)
+Granota verda (Pelophylax perezi)
+Escarabat rinoceront (Oryctes nasicornis)
+Libèl·lula comuna (Sympetrum striolatum)

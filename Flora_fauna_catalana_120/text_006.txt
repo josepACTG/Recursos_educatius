@@ -1,0 +1,13 @@
+Plantes:
+Avellaner (Corylus avellana)
+Argelaga (Ulex parviflorus)
+Heura (Hedera helix)
+Alzina (Quercus ilex)
+Farigola (Thymus vulgaris)
+
+Animals:
+Papallona rei (Papilio machaon)
+Granota verda (Pelophylax perezi)
+Guineu (Vulpes vulpes)
+Senglar (Sus scrofa)
+Formiga roja (Myrmica rubra)

@@ -1,0 +1,13 @@
+Plantes:
+Pi roig (Pinus sylvestris)
+Baladre (Nerium oleander)
+Argelaga (Ulex parviflorus)
+Ginesta (Spartium junceum)
+Boix (Buxus sempervirens)
+
+Animals:
+Senglar (Sus scrofa)
+Àguila daurada (Aquila chrysaetos)
+Tudó (Columba palumbus)
+Tritó pirinenc (Calotriton asper)
+Esquirol (Sciurus vulgaris)

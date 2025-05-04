@@ -1,0 +1,13 @@
+Plantes:
+Pi roig (Pinus sylvestris)
+Castanyer (Castanea sativa)
+Esparreguera (Asparagus acutifolius)
+Avellaner (Corylus avellana)
+Alzina (Quercus ilex)
+
+Animals:
+Tritó pirinenc (Calotriton asper)
+Guineu (Vulpes vulpes)
+Cabirol (Capreolus capreolus)
+Senglar (Sus scrofa)
+Rata cellarda (Eliomys quercinus)

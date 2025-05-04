@@ -1,0 +1,13 @@
+Plantes:
+Baladre (Nerium oleander)
+Ginesta (Spartium junceum)
+Esparreguera (Asparagus acutifolius)
+Boix (Buxus sempervirens)
+Farigola (Thymus vulgaris)
+
+Animals:
+Ós bru (Ursus arctos)
+Cigala (Cicada orni)
+Rata cellarda (Eliomys quercinus)
+Papallona rei (Papilio machaon)
+Guineu (Vulpes vulpes)

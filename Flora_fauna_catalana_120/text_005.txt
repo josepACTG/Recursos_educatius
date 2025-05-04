@@ -1,0 +1,13 @@
+Plantes:
+Boix (Buxus sempervirens)
+Baladre (Nerium oleander)
+Llorer (Laurus nobilis)
+Cirerer (Prunus avium)
+Heura (Hedera helix)
+
+Animals:
+Cabirol (Capreolus capreolus)
+Cigala (Cicada orni)
+Formiga roja (Myrmica rubra)
+Papallona rei (Papilio machaon)
+Senglar (Sus scrofa)

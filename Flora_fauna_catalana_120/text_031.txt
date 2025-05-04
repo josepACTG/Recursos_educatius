@@ -1,0 +1,13 @@
+Plantes:
+Heura (Hedera helix)
+Llorer (Laurus nobilis)
+Romaní (Rosmarinus officinalis)
+Baladre (Nerium oleander)
+Farigola (Thymus vulgaris)
+
+Animals:
+Àguila daurada (Aquila chrysaetos)
+Libèl·lula comuna (Sympetrum striolatum)
+Cabirol (Capreolus capreolus)
+Senglar (Sus scrofa)
+Formiga roja (Myrmica rubra)

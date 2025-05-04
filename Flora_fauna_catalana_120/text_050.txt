@@ -1,0 +1,13 @@
+Plantes:
+Rovelló (Lactarius deliciosus)
+Baladre (Nerium oleander)
+Castanyer (Castanea sativa)
+Ginesta (Spartium junceum)
+Alzina (Quercus ilex)
+
+Animals:
+Rata cellarda (Eliomys quercinus)
+Cigala (Cicada orni)
+Esquirol (Sciurus vulgaris)
+Formiga roja (Myrmica rubra)
+Tritó pirinenc (Calotriton asper)

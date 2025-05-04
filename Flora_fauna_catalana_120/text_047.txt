@@ -1,0 +1,13 @@
+Plantes:
+Ginesta (Spartium junceum)
+Heura (Hedera helix)
+Romaní (Rosmarinus officinalis)
+Esparreguera (Asparagus acutifolius)
+Cirerer (Prunus avium)
+
+Animals:
+Esquirol (Sciurus vulgaris)
+Cabirol (Capreolus capreolus)
+Papallona rei (Papilio machaon)
+Granota verda (Pelophylax perezi)
+Ós bru (Ursus arctos)

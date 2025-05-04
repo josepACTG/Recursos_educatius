@@ -1,0 +1,13 @@
+Plantes:
+Boix (Buxus sempervirens)
+Cirerer (Prunus avium)
+Farigola (Thymus vulgaris)
+Ginesta (Spartium junceum)
+Alzina (Quercus ilex)
+
+Animals:
+Formiga roja (Myrmica rubra)
+Escarabat rinoceront (Oryctes nasicornis)
+Cigala (Cicada orni)
+Libèl·lula comuna (Sympetrum striolatum)
+Tudó (Columba palumbus)

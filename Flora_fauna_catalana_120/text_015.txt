@@ -1,0 +1,13 @@
+Plantes:
+Baladre (Nerium oleander)
+Argelaga (Ulex parviflorus)
+Pi roig (Pinus sylvestris)
+Romaní (Rosmarinus officinalis)
+Boix (Buxus sempervirens)
+
+Animals:
+Cabirol (Capreolus capreolus)
+Papallona rei (Papilio machaon)
+Rata cellarda (Eliomys quercinus)
+Senglar (Sus scrofa)
+Tudó (Columba palumbus)

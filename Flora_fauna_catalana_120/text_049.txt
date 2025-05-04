@@ -1,0 +1,13 @@
+Plantes:
+Boix (Buxus sempervirens)
+Avellaner (Corylus avellana)
+Esparreguera (Asparagus acutifolius)
+Argelaga (Ulex parviflorus)
+Pi roig (Pinus sylvestris)
+
+Animals:
+Libèl·lula comuna (Sympetrum striolatum)
+Esquirol (Sciurus vulgaris)
+Rata cellarda (Eliomys quercinus)
+Senglar (Sus scrofa)
+Papallona rei (Papilio machaon)

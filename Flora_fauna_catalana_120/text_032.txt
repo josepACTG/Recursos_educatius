@@ -1,0 +1,13 @@
+Plantes:
+Ginesta (Spartium junceum)
+Alzina (Quercus ilex)
+Boix (Buxus sempervirens)
+Heura (Hedera helix)
+Avellaner (Corylus avellana)
+
+Animals:
+Guineu (Vulpes vulpes)
+Cigala (Cicada orni)
+Papallona rei (Papilio machaon)
+Granota verda (Pelophylax perezi)
+Esquirol (Sciurus vulgaris)

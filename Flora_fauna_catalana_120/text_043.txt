@@ -1,0 +1,13 @@
+Plantes:
+Ginesta (Spartium junceum)
+Heura (Hedera helix)
+Romaní (Rosmarinus officinalis)
+Boix (Buxus sempervirens)
+Rovelló (Lactarius deliciosus)
+
+Animals:
+Esquirol (Sciurus vulgaris)
+Formiga roja (Myrmica rubra)
+Rata cellarda (Eliomys quercinus)
+Àguila daurada (Aquila chrysaetos)
+Guineu (Vulpes vulpes)

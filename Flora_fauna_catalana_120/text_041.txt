@@ -1,0 +1,13 @@
+Plantes:
+Pi roig (Pinus sylvestris)
+Ginesta (Spartium junceum)
+Farigola (Thymus vulgaris)
+Esparreguera (Asparagus acutifolius)
+Avellaner (Corylus avellana)
+
+Animals:
+Tritó pirinenc (Calotriton asper)
+Libèl·lula comuna (Sympetrum striolatum)
+Guineu (Vulpes vulpes)
+Formiga roja (Myrmica rubra)
+Granota verda (Pelophylax perezi)

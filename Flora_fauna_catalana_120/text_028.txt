@@ -1,0 +1,13 @@
+Plantes:
+Pi roig (Pinus sylvestris)
+Ginesta (Spartium junceum)
+Castanyer (Castanea sativa)
+Esparreguera (Asparagus acutifolius)
+Avellaner (Corylus avellana)
+
+Animals:
+Formiga roja (Myrmica rubra)
+Ós bru (Ursus arctos)
+Papallona rei (Papilio machaon)
+Esquirol (Sciurus vulgaris)
+Àguila daurada (Aquila chrysaetos)

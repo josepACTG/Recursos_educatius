@@ -1,0 +1,13 @@
+Plantes:
+Boix (Buxus sempervirens)
+Rovelló (Lactarius deliciosus)
+Baladre (Nerium oleander)
+Argelaga (Ulex parviflorus)
+Cirerer (Prunus avium)
+
+Animals:
+Guineu (Vulpes vulpes)
+Formiga roja (Myrmica rubra)
+Rata cellarda (Eliomys quercinus)
+Tritó pirinenc (Calotriton asper)
+Ós bru (Ursus arctos)

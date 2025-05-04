@@ -1,0 +1,13 @@
+Plantes:
+Romaní (Rosmarinus officinalis)
+Castanyer (Castanea sativa)
+Argelaga (Ulex parviflorus)
+Avellaner (Corylus avellana)
+Cirerer (Prunus avium)
+
+Animals:
+Granota verda (Pelophylax perezi)
+Tritó pirinenc (Calotriton asper)
+Libèl·lula comuna (Sympetrum striolatum)
+Cigala (Cicada orni)
+Esquirol (Sciurus vulgaris)

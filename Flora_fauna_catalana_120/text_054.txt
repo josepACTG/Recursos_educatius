@@ -1,0 +1,13 @@
+Plantes:
+Pi roig (Pinus sylvestris)
+Romaní (Rosmarinus officinalis)
+Ginesta (Spartium junceum)
+Baladre (Nerium oleander)
+Castanyer (Castanea sativa)
+
+Animals:
+Escarabat rinoceront (Oryctes nasicornis)
+Senglar (Sus scrofa)
+Cabirol (Capreolus capreolus)
+Cigala (Cicada orni)
+Ós bru (Ursus arctos)

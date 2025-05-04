@@ -1,0 +1,13 @@
+Plantes:
+Llorer (Laurus nobilis)
+Cirerer (Prunus avium)
+Avellaner (Corylus avellana)
+Boix (Buxus sempervirens)
+Argelaga (Ulex parviflorus)
+
+Animals:
+Tudó (Columba palumbus)
+Cabirol (Capreolus capreolus)
+Formiga roja (Myrmica rubra)
+Escarabat rinoceront (Oryctes nasicornis)
+Granota verda (Pelophylax perezi)

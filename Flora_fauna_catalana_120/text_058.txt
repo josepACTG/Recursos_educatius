@@ -1,0 +1,13 @@
+Plantes:
+Argelaga (Ulex parviflorus)
+Avellaner (Corylus avellana)
+Romaní (Rosmarinus officinalis)
+Rovelló (Lactarius deliciosus)
+Llorer (Laurus nobilis)
+
+Animals:
+Àguila daurada (Aquila chrysaetos)
+Formiga roja (Myrmica rubra)
+Rata cellarda (Eliomys quercinus)
+Cabirol (Capreolus capreolus)
+Esquirol (Sciurus vulgaris)

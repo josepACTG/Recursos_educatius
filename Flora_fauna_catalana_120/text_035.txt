@@ -1,0 +1,13 @@
+Plantes:
+Baladre (Nerium oleander)
+Rovelló (Lactarius deliciosus)
+Argelaga (Ulex parviflorus)
+Esparreguera (Asparagus acutifolius)
+Llorer (Laurus nobilis)
+
+Animals:
+Escarabat rinoceront (Oryctes nasicornis)
+Tritó pirinenc (Calotriton asper)
+Ós bru (Ursus arctos)
+Senglar (Sus scrofa)
+Rata cellarda (Eliomys quercinus)

@@ -1,0 +1,13 @@
+Plantes:
+Esparreguera (Asparagus acutifolius)
+Ginesta (Spartium junceum)
+Avellaner (Corylus avellana)
+Boix (Buxus sempervirens)
+Pi roig (Pinus sylvestris)
+
+Animals:
+Guineu (Vulpes vulpes)
+Escarabat rinoceront (Oryctes nasicornis)
+Papallona rei (Papilio machaon)
+Ós bru (Ursus arctos)
+Cigala (Cicada orni)

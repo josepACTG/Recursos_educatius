@@ -1,0 +1,13 @@
+Plantes:
+Romaní (Rosmarinus officinalis)
+Avellaner (Corylus avellana)
+Argelaga (Ulex parviflorus)
+Baladre (Nerium oleander)
+Esparreguera (Asparagus acutifolius)
+
+Animals:
+Tritó pirinenc (Calotriton asper)
+Senglar (Sus scrofa)
+Guineu (Vulpes vulpes)
+Escarabat rinoceront (Oryctes nasicornis)
+Ós bru (Ursus arctos)

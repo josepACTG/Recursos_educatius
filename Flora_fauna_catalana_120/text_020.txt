@@ -1,0 +1,13 @@
+Plantes:
+Alzina (Quercus ilex)
+Llorer (Laurus nobilis)
+Esparreguera (Asparagus acutifolius)
+Avellaner (Corylus avellana)
+Heura (Hedera helix)
+
+Animals:
+Cabirol (Capreolus capreolus)
+Granota verda (Pelophylax perezi)
+Escarabat rinoceront (Oryctes nasicornis)
+Formiga roja (Myrmica rubra)
+Papallona rei (Papilio machaon)

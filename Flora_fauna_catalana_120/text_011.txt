@@ -1,0 +1,13 @@
+Plantes:
+Boix (Buxus sempervirens)
+Alzina (Quercus ilex)
+Cirerer (Prunus avium)
+Esparreguera (Asparagus acutifolius)
+Argelaga (Ulex parviflorus)
+
+Animals:
+Esquirol (Sciurus vulgaris)
+Ós bru (Ursus arctos)
+Formiga roja (Myrmica rubra)
+Senglar (Sus scrofa)
+Papallona rei (Papilio machaon)

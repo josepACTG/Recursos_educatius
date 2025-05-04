@@ -1,0 +1,13 @@
+Plantes:
+Heura (Hedera helix)
+Baladre (Nerium oleander)
+Cirerer (Prunus avium)
+Avellaner (Corylus avellana)
+Rovelló (Lactarius deliciosus)
+
+Animals:
+Esquirol (Sciurus vulgaris)
+Granota verda (Pelophylax perezi)
+Cabirol (Capreolus capreolus)
+Cigala (Cicada orni)
+Àguila daurada (Aquila chrysaetos)

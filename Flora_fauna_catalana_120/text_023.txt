@@ -1,0 +1,13 @@
+Plantes:
+Esparreguera (Asparagus acutifolius)
+Boix (Buxus sempervirens)
+Rovelló (Lactarius deliciosus)
+Avellaner (Corylus avellana)
+Pi roig (Pinus sylvestris)
+
+Animals:
+Tritó pirinenc (Calotriton asper)
+Esquirol (Sciurus vulgaris)
+Àguila daurada (Aquila chrysaetos)
+Escarabat rinoceront (Oryctes nasicornis)
+Rata cellarda (Eliomys quercinus)

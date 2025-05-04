@@ -1,0 +1,13 @@
+Plantes:
+Llorer (Laurus nobilis)
+Argelaga (Ulex parviflorus)
+Farigola (Thymus vulgaris)
+Baladre (Nerium oleander)
+Esparreguera (Asparagus acutifolius)
+
+Animals:
+Àguila daurada (Aquila chrysaetos)
+Formiga roja (Myrmica rubra)
+Guineu (Vulpes vulpes)
+Rata cellarda (Eliomys quercinus)
+Esquirol (Sciurus vulgaris)

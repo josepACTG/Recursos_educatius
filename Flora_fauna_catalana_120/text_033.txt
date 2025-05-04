@@ -1,0 +1,13 @@
+Plantes:
+Boix (Buxus sempervirens)
+Rovelló (Lactarius deliciosus)
+Alzina (Quercus ilex)
+Baladre (Nerium oleander)
+Castanyer (Castanea sativa)
+
+Animals:
+Ós bru (Ursus arctos)
+Libèl·lula comuna (Sympetrum striolatum)
+Esquirol (Sciurus vulgaris)
+Tudó (Columba palumbus)
+Cigala (Cicada orni)

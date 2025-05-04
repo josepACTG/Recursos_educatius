@@ -1,0 +1,13 @@
+Plantes:
+Heura (Hedera helix)
+Rovelló (Lactarius deliciosus)
+Avellaner (Corylus avellana)
+Castanyer (Castanea sativa)
+Cirerer (Prunus avium)
+
+Animals:
+Granota verda (Pelophylax perezi)
+Papallona rei (Papilio machaon)
+Cigala (Cicada orni)
+Senglar (Sus scrofa)
+Esquirol (Sciurus vulgaris)

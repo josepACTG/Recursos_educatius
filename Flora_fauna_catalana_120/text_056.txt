@@ -1,0 +1,13 @@
+Plantes:
+Farigola (Thymus vulgaris)
+Rovelló (Lactarius deliciosus)
+Llorer (Laurus nobilis)
+Alzina (Quercus ilex)
+Cirerer (Prunus avium)
+
+Animals:
+Cigala (Cicada orni)
+Granota verda (Pelophylax perezi)
+Ós bru (Ursus arctos)
+Esquirol (Sciurus vulgaris)
+Guineu (Vulpes vulpes)

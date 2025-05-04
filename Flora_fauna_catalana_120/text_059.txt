@@ -1,0 +1,13 @@
+Plantes:
+Romaní (Rosmarinus officinalis)
+Heura (Hedera helix)
+Avellaner (Corylus avellana)
+Alzina (Quercus ilex)
+Baladre (Nerium oleander)
+
+Animals:
+Papallona rei (Papilio machaon)
+Àguila daurada (Aquila chrysaetos)
+Ós bru (Ursus arctos)
+Libèl·lula comuna (Sympetrum striolatum)
+Escarabat rinoceront (Oryctes nasicornis)

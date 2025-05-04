@@ -1,0 +1,13 @@
+Plantes:
+Castanyer (Castanea sativa)
+Farigola (Thymus vulgaris)
+Alzina (Quercus ilex)
+Pi roig (Pinus sylvestris)
+Cirerer (Prunus avium)
+
+Animals:
+Àguila daurada (Aquila chrysaetos)
+Ós bru (Ursus arctos)
+Tritó pirinenc (Calotriton asper)
+Cigala (Cicada orni)
+Cabirol (Capreolus capreolus)

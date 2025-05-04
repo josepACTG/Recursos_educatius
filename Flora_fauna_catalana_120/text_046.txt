@@ -1,0 +1,13 @@
+Plantes:
+Farigola (Thymus vulgaris)
+Avellaner (Corylus avellana)
+Boix (Buxus sempervirens)
+Llorer (Laurus nobilis)
+Alzina (Quercus ilex)
+
+Animals:
+Libèl·lula comuna (Sympetrum striolatum)
+Rata cellarda (Eliomys quercinus)
+Ós bru (Ursus arctos)
+Cigala (Cicada orni)
+Escarabat rinoceront (Oryctes nasicornis)

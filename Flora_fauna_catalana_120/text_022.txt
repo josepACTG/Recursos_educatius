@@ -1,0 +1,13 @@
+Plantes:
+Cirerer (Prunus avium)
+Baladre (Nerium oleander)
+Heura (Hedera helix)
+Castanyer (Castanea sativa)
+Argelaga (Ulex parviflorus)
+
+Animals:
+Papallona rei (Papilio machaon)
+Cabirol (Capreolus capreolus)
+Tritó pirinenc (Calotriton asper)
+Rata cellarda (Eliomys quercinus)
+Cigala (Cicada orni)

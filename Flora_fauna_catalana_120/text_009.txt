@@ -1,0 +1,13 @@
+Plantes:
+Avellaner (Corylus avellana)
+Boix (Buxus sempervirens)
+Argelaga (Ulex parviflorus)
+Llorer (Laurus nobilis)
+Castanyer (Castanea sativa)
+
+Animals:
+Papallona rei (Papilio machaon)
+Rata cellarda (Eliomys quercinus)
+Tudó (Columba palumbus)
+Ós bru (Ursus arctos)
+Cigala (Cicada orni)

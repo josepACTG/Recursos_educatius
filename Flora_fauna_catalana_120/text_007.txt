@@ -1,0 +1,13 @@
+Plantes:
+Baladre (Nerium oleander)
+Llorer (Laurus nobilis)
+Romaní (Rosmarinus officinalis)
+Avellaner (Corylus avellana)
+Farigola (Thymus vulgaris)
+
+Animals:
+Formiga roja (Myrmica rubra)
+Ós bru (Ursus arctos)
+Cigala (Cicada orni)
+Guineu (Vulpes vulpes)
+Senglar (Sus scrofa)

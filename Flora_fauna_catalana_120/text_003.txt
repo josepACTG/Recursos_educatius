@@ -1,0 +1,13 @@
+Plantes:
+Ginesta (Spartium junceum)
+Farigola (Thymus vulgaris)
+Boix (Buxus sempervirens)
+Pi roig (Pinus sylvestris)
+Cirerer (Prunus avium)
+
+Animals:
+Cabirol (Capreolus capreolus)
+Tritó pirinenc (Calotriton asper)
+Ós bru (Ursus arctos)
+Libèl·lula comuna (Sympetrum striolatum)
+Escarabat rinoceront (Oryctes nasicornis)

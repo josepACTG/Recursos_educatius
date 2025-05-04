@@ -1,0 +1,13 @@
+Plantes:
+Heura (Hedera helix)
+Romaní (Rosmarinus officinalis)
+Farigola (Thymus vulgaris)
+Argelaga (Ulex parviflorus)
+Rovelló (Lactarius deliciosus)
+
+Animals:
+Formiga roja (Myrmica rubra)
+Cigala (Cicada orni)
+Papallona rei (Papilio machaon)
+Esquirol (Sciurus vulgaris)
+Senglar (Sus scrofa)

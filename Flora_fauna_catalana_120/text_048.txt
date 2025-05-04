@@ -1,0 +1,13 @@
+Plantes:
+Pi roig (Pinus sylvestris)
+Rovelló (Lactarius deliciosus)
+Avellaner (Corylus avellana)
+Heura (Hedera helix)
+Llorer (Laurus nobilis)
+
+Animals:
+Libèl·lula comuna (Sympetrum striolatum)
+Escarabat rinoceront (Oryctes nasicornis)
+Formiga roja (Myrmica rubra)
+Àguila daurada (Aquila chrysaetos)
+Cabirol (Capreolus capreolus)

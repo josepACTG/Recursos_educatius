@@ -1,0 +1,13 @@
+Plantes:
+Llorer (Laurus nobilis)
+Romaní (Rosmarinus officinalis)
+Farigola (Thymus vulgaris)
+Alzina (Quercus ilex)
+Castanyer (Castanea sativa)
+
+Animals:
+Guineu (Vulpes vulpes)
+Cabirol (Capreolus capreolus)
+Papallona rei (Papilio machaon)
+Tritó pirinenc (Calotriton asper)
+Àguila daurada (Aquila chrysaetos)

@@ -1,0 +1,13 @@
+Plantes:
+Baladre (Nerium oleander)
+Llorer (Laurus nobilis)
+Esparreguera (Asparagus acutifolius)
+Argelaga (Ulex parviflorus)
+Boix (Buxus sempervirens)
+
+Animals:
+Rata cellarda (Eliomys quercinus)
+Libèl·lula comuna (Sympetrum striolatum)
+Formiga roja (Myrmica rubra)
+Àguila daurada (Aquila chrysaetos)
+Cigala (Cicada orni)

@@ -1,0 +1,13 @@
+Plantes:
+Cirerer (Prunus avium)
+Romaní (Rosmarinus officinalis)
+Baladre (Nerium oleander)
+Heura (Hedera helix)
+Rovelló (Lactarius deliciosus)
+
+Animals:
+Tritó pirinenc (Calotriton asper)
+Senglar (Sus scrofa)
+Rata cellarda (Eliomys quercinus)
+Escarabat rinoceront (Oryctes nasicornis)
+Granota verda (Pelophylax perezi)

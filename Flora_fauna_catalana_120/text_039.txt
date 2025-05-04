@@ -1,0 +1,13 @@
+Plantes:
+Ginesta (Spartium junceum)
+Argelaga (Ulex parviflorus)
+Esparreguera (Asparagus acutifolius)
+Boix (Buxus sempervirens)
+Pi roig (Pinus sylvestris)
+
+Animals:
+Guineu (Vulpes vulpes)
+Formiga roja (Myrmica rubra)
+Libèl·lula comuna (Sympetrum striolatum)
+Escarabat rinoceront (Oryctes nasicornis)
+Cigala (Cicada orni)

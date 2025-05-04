@@ -1,0 +1,13 @@
+Plantes:
+Baladre (Nerium oleander)
+Rovelló (Lactarius deliciosus)
+Castanyer (Castanea sativa)
+Ginesta (Spartium junceum)
+Cirerer (Prunus avium)
+
+Animals:
+Cigala (Cicada orni)
+Cabirol (Capreolus capreolus)
+Papallona rei (Papilio machaon)
+Tudó (Columba palumbus)
+Escarabat rinoceront (Oryctes nasicornis)

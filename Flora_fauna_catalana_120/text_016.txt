@@ -1,0 +1,13 @@
+Plantes:
+Rovelló (Lactarius deliciosus)
+Heura (Hedera helix)
+Avellaner (Corylus avellana)
+Cirerer (Prunus avium)
+Argelaga (Ulex parviflorus)
+
+Animals:
+Tritó pirinenc (Calotriton asper)
+Senglar (Sus scrofa)
+Escarabat rinoceront (Oryctes nasicornis)
+Papallona rei (Papilio machaon)
+Granota verda (Pelophylax perezi)

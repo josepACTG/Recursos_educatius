@@ -1,0 +1,13 @@
+Plantes:
+Llorer (Laurus nobilis)
+Baladre (Nerium oleander)
+Heura (Hedera helix)
+Argelaga (Ulex parviflorus)
+Romaní (Rosmarinus officinalis)
+
+Animals:
+Esquirol (Sciurus vulgaris)
+Rata cellarda (Eliomys quercinus)
+Escarabat rinoceront (Oryctes nasicornis)
+Ós bru (Ursus arctos)
+Papallona rei (Papilio machaon)

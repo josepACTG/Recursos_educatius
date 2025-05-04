@@ -1,0 +1,13 @@
+Plantes:
+Avellaner (Corylus avellana)
+Rovelló (Lactarius deliciosus)
+Pi roig (Pinus sylvestris)
+Farigola (Thymus vulgaris)
+Llorer (Laurus nobilis)
+
+Animals:
+Tritó pirinenc (Calotriton asper)
+Guineu (Vulpes vulpes)
+Libèl·lula comuna (Sympetrum striolatum)
+Ós bru (Ursus arctos)
+Rata cellarda (Eliomys quercinus)

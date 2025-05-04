@@ -1,0 +1,13 @@
+Plantes:
+Castanyer (Castanea sativa)
+Romaní (Rosmarinus officinalis)
+Pi roig (Pinus sylvestris)
+Baladre (Nerium oleander)
+Heura (Hedera helix)
+
+Animals:
+Granota verda (Pelophylax perezi)
+Rata cellarda (Eliomys quercinus)
+Esquirol (Sciurus vulgaris)
+Ós bru (Ursus arctos)
+Formiga roja (Myrmica rubra)

@@ -1,0 +1,13 @@
+Plantes:
+Farigola (Thymus vulgaris)
+Baladre (Nerium oleander)
+Heura (Hedera helix)
+Cirerer (Prunus avium)
+Boix (Buxus sempervirens)
+
+Animals:
+Libèl·lula comuna (Sympetrum striolatum)
+Cigala (Cicada orni)
+Escarabat rinoceront (Oryctes nasicornis)
+Granota verda (Pelophylax perezi)
+Àguila daurada (Aquila chrysaetos)

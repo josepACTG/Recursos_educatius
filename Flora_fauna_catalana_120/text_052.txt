@@ -1,0 +1,13 @@
+Plantes:
+Pi roig (Pinus sylvestris)
+Heura (Hedera helix)
+Esparreguera (Asparagus acutifolius)
+Avellaner (Corylus avellana)
+Romaní (Rosmarinus officinalis)
+
+Animals:
+Senglar (Sus scrofa)
+Libèl·lula comuna (Sympetrum striolatum)
+Granota verda (Pelophylax perezi)
+Papallona rei (Papilio machaon)
+Rata cellarda (Eliomys quercinus)

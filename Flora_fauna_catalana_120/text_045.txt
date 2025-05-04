@@ -1,0 +1,13 @@
+Plantes:
+Boix (Buxus sempervirens)
+Avellaner (Corylus avellana)
+Heura (Hedera helix)
+Baladre (Nerium oleander)
+Cirerer (Prunus avium)
+
+Animals:
+Rata cellarda (Eliomys quercinus)
+Cigala (Cicada orni)
+Libèl·lula comuna (Sympetrum striolatum)
+Ós bru (Ursus arctos)
+Esquirol (Sciurus vulgaris)

@@ -1,0 +1,13 @@
+Plantes:
+Cirerer (Prunus avium)
+Pi roig (Pinus sylvestris)
+Farigola (Thymus vulgaris)
+Baladre (Nerium oleander)
+Heura (Hedera helix)
+
+Animals:
+Esquirol (Sciurus vulgaris)
+Rata cellarda (Eliomys quercinus)
+Tudó (Columba palumbus)
+Cigala (Cicada orni)
+Àguila daurada (Aquila chrysaetos)

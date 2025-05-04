@@ -1,0 +1,13 @@
+Plantes:
+Argelaga (Ulex parviflorus)
+Pi roig (Pinus sylvestris)
+Baladre (Nerium oleander)
+Cirerer (Prunus avium)
+Esparreguera (Asparagus acutifolius)
+
+Animals:
+Tudó (Columba palumbus)
+Libèl·lula comuna (Sympetrum striolatum)
+Senglar (Sus scrofa)
+Esquirol (Sciurus vulgaris)
+Granota verda (Pelophylax perezi)

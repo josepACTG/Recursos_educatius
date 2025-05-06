@@ -1,0 +1,6 @@
+Aquest és un recull de valors per a l'activitat de metrologia de 2n de Batxillerat.
+Aquests valors simulen la mesura diferent d'un objecte. En el primer llibre del document .xlsx hi ha 35 mesures, en el segon 350 i en el tercer 3500.
+Cada document conté un conjunt de valors diferents entre ells, els quals tenen tots una distribució normal amb mitja el seu número (1, 2, 3...), i desviació estándard 0,01.
+El nombre de l'arxiu (1, 2, 3...) es suposa que és la cota nominal de la mesura.
+
+L'objectiu de l'exercici és determinar l'error absolut, relatiu, la mitjana de les mesures, el nombre de valors (n), la desviació màxima i mínima, i determinar quin percentatge s'inclou en la cota C±0,01.
